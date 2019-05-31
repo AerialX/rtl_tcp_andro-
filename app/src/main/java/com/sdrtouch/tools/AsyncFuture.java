@@ -20,7 +20,7 @@
 
 package com.sdrtouch.tools;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;

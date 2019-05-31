@@ -27,7 +27,7 @@ import android.content.Intent;
 import android.os.Binder;
 import android.os.IBinder;
 import android.os.PowerManager;
-import android.support.v7.app.NotificationCompat;
+import androidx.appcompat.app.NotificationCompat;
 import android.util.Pair;
 
 import com.sdrtouch.core.SdrTcpArguments;
